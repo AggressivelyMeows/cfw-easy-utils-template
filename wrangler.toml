@@ -1,0 +1,14 @@
+name = "{{ project-name }}"
+type = "webpack"
+account_id = "2dcc5a4f486a50625b4167e90d113158"
+workers_dev = true
+route = ""
+zone_id = ""
+
+kv_namespaces = [
+    {
+        binding = "htmlCache",
+        id = "a06160915d9444149d0b5da4b48f0e16",
+        preview_id = "a06160915d9444149d0b5da4b48f0e16"
+    }
+]
