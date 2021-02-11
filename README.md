@@ -1,4 +1,4 @@
-# 🦄 Cloudflare Workers: Easy utils quick start
+# 🦄 Cloudflare Workers: Easy utils template
 *"The best way to start using Cloudflare Workers" ~ Totally not Ceru*  
 
 A Wangler template to get started using `cfw-easy-utils`. Write cleaner, easier-to-read code without breaking a sweat.
